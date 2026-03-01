@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Text",
+  "description": "An interactive 3D visualization that transforms text into a spiraling galaxy of floating characters.",
+  "requestFramePermissions": []
+}
